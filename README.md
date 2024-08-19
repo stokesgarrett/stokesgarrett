@@ -11,12 +11,12 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Application Containerization and Deployment   | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| Containerized Application Deployment   | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | Cloud Security Assessment with Vulnerability Tools    | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
 | Network Traffic Monitoring and Attack Detection       | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
 | Cloud Web Application Architecture Design                | <a href="https://github.com/stokesgarrett/AWS-Web-Application-Project">AWS Web Application Project</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Vulnerability Detection and Remediation | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Network Traffic Monitoring and Attack Detection  | SOC Automation Lab|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
