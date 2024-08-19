@@ -5,7 +5,7 @@ I am an Information Technology graduate student with a strong dedication to prot
 
 ## Objective
 
-Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and strive to constantly learn new technologies and methods to help protect valuable data and assets. As part of my continous learning, I will be regularily updating this GitHub portfolio!
+Throughout the course of my studies in Cybersecurity and IT, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and strive to constantly learn new technologies and methods to help protect valuable data and assets. As part of my continous learning, I will be regularily updating this GitHub portfolio!
 
 ## Technical Skills
 
