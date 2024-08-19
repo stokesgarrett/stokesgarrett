@@ -11,7 +11,7 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Application Containerization and Deployment with GCP      | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| Application Containerization and Deployment   | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | Cloud Security Assessment with Vulnerability Tools         | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
