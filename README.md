@@ -1,7 +1,7 @@
 # Hello, I'm Garrett Stokes
 <a href="https://www.linkedin.com/in/garrett-stokes-79a5261a4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Cybersecurity graduate with a strong dedication to protecting information, securing infrastructure, and solving complex real-world problems. 
+I am a Cybersecurity graduate student with a strong dedication to protecting information, securing digital infrastructure, and solving complex real-world problems. 
 
 ## Objective
 
