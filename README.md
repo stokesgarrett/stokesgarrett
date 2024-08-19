@@ -5,14 +5,15 @@ I am a Cybersecurity graduate student with a strong dedication to protecting inf
 
 ## Objective
 
-Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and am eager to constantly learn new technologies to help protect valuable data and assets. I aim to be continous in my learning, and will be regularily updating this portfolio!
+Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and strive to constantly learn new technologies and methods to help protect valuable data and assets. As part of my continous learning, I will be regularily updating this GitHub portfolio!
 
-## Skills
+## Technical Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Containerized Application Deployment                     | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | Cloud Security Assessment with Vulnerability Tools       | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| Cloud Application Deployment Architecture Design         | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | SIEM Implementation and Log Analysis                     | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
 | Network Traffic Monitoring and Attack Detection          | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
 | Cloud Web Application Architecture Design                | <a href="https://github.com/stokesgarrett/AWS-Web-Application-Hosting">AWS Web Application Hosting</a>|
@@ -20,45 +21,57 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 
 ## Tools
 
-### Cloud
+### Cloud Platforms
 <div>
     <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Kubernetes_Engine-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon&logoColor=white" />
-
 </div>
-
-### OS
-<div>
-    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Logstash-005571?&style=for-the-badge&logo=logstash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=kibana&logoColor=white" />
 </div>
 
-### Forensics
+### Programming Languages
 <div>
-    <img src="https://img.shields.io/badge/-Autopsy-3D6D91?&style=for-the-badge&logo=Autopsy&logoColor=white" />
-   <img src="https://img.shields.io/badge/-FTK_Imager-0033A0?&style=for-the-badge&logoColor=white" />
-
-
-
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## Certifications
+### Network Tools
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-FF6600?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PRTG_Network_Monitor-00B5E2?&style=for-the-badge&logo=prtg&logoColor=white" />
 </div>
+
+### Vulnerability Tools
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-2496ED?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-FF6F00?&style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-0072CE?&style=for-the-badge&logo=qualys&logoColor=white" />
+</div>
+
+### Development Tools
+<div>
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows_10-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-FFB700?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+</div>
+
 
 ## Projects
 - <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
