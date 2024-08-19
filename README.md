@@ -8,35 +8,48 @@ I am a recent Cybersecurity graduate with a strong dedication to protecting info
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity and Cloud Computing. I enjoy fast-paced high-level work, and am eager to constantly learn new technologies to help protect Organization's valuable data and assets. 
+Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and am eager to constantly learn new technologies to help protect valuable data and assets. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Application Containerization and Deployment with GCP      | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| Cloud Security Assessment with Vulnerability Tools         | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection  | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Kubernetes_Engine-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon&logoColor=white" />
+
+</div>
+
+### OS
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -44,6 +57,13 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 </div>
 
 ### Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-3D6D91?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+   <img src="https://img.shields.io/badge/-FTK_Imager-0033A0?&style=for-the-badge&logoColor=white" />
+
+
+
+</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -52,5 +72,5 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
 - SOC Automation Project
