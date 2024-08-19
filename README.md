@@ -5,23 +5,18 @@ I am a Cybersecurity graduate student with a strong dedication to protecting inf
 
 ## Objective
 
-Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and am eager to constantly learn new technologies to help protect valuable data and assets. 
+Throughout the course of my studies in Cybersecurity, I have developed a strong passion for Cybersecurity. I enjoy fast-paced high-level work, and am eager to constantly learn new technologies to help protect valuable data and assets. I aim to be continous in my learning, and will be regularily updating this portfolio!
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Containerized Application Deployment   | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
-| Cloud Security Assessment with Vulnerability Tools    | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
-| Network Traffic Monitoring and Attack Detection       | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
-| Cloud Web Application Architecture Design                | <a href="https://github.com/stokesgarrett/AWS-Web-Application-Project">AWS Web Application Project</a>|
-| Vulnerability Detection and Remediation | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Network Traffic Monitoring and Attack Detection  | SOC Automation Lab|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Containerized Application Deployment                     | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| Cloud Security Assessment with Vulnerability Tools       | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
+| SIEM Implementation and Log Analysis                     | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
+| Network Traffic Monitoring and Attack Detection          | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
+| Cloud Web Application Architecture Design                | <a href="https://github.com/stokesgarrett/AWS-Web-Application-Hosting">AWS Web Application Hosting</a>|
+| Vulnerability Detection and Remediation                  | <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Nessus Vulnerability Detection and Remediation</a>|
 
 ## Tools
 
@@ -67,5 +62,6 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 
 ## Projects
 - <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
-- <a href="https://github.com/stokesgarrett/AWS-Web-Application-Project">AWS Web Application Project</a>
+- <a href="https://github.com/stokesgarrett/AWS-Web-Application-Hosting">AWS Web Application Hosting</a>
 - <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>
+- <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Nessus Vulnerability Detection and Remediation</a>
