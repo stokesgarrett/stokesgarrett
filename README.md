@@ -68,3 +68,4 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 ## Projects
 - <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
 - <a href="https://github.com/stokesgarrett/AWS-Web-Application-Project">AWS Web Application Project</a>
+- <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>
