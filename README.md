@@ -13,9 +13,9 @@ Throughout the course of my studies in Cybersecurity, I have developed a strong 
 |-----------------------------------------------|----------------------------|
 | Application Containerization and Deployment   | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
 | Cloud Security Assessment with Vulnerability Tools    | <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>|
-| SIEM Implementation and Network Log Analysis          | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
 | Network Traffic Monitoring and Attack Detection       | <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Cloud Web Application Architecture Design                | <a href="https://github.com/stokesgarrett/AWS-Web-Application-Project">AWS Web Application Project</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Network Traffic Monitoring and Attack Detection  | SOC Automation Lab|
