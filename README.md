@@ -19,7 +19,7 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
 | Cloud Web Application Architecture Design                | <a href="https://github.com/stokesgarrett/AWS-Web-Application-Hosting">AWS Web Application Hosting</a>|
 | Vulnerability Detection and Remediation                  | <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Nessus Vulnerability Detection and Remediation</a>|
 
-## Tools
+## Technical Skills
 
 ### Scripting & Programming
 <div>
@@ -82,6 +82,6 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
 
 ## Projects
 - <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
-- <a href="https://github.com/stokesgarrett/AWS-Web-Application-Hosting">AWS Web Application Hosting</a>
+- <a href="https://github.com/stokesgarrett/Password-Cracking-The-Art-of-Hash-Hunting-10-22-2024">Hash Cracking On Kali Linux</a>
 - <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>
 - <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Nessus Vulnerability Detection and Remediation</a>
