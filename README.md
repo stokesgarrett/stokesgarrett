@@ -1,7 +1,7 @@
 # Hello, I'm Garrett Stokes
 <a href="https://www.linkedin.com/in/garrett-stokes-79a5261a4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome!
+Graduate student in Information Technology with a strong foundation in networking, cybersecurity, and cloud systems. Committed to applying my work ethic, technical expertise, and communicative skills to deliver results in dynamic cybersecurity or cloud-focused roles.
 
 ## Objective
 
