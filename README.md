@@ -84,4 +84,5 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
 - <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
 - <a href="https://github.com/stokesgarrett/Password-Cracking-The-Art-of-Hash-Hunting-10-22-2024">Hash Cracking On Kali Linux</a>
 - <a href="https://github.com/stokesgarrett/Analyzation-of-CIC-IDS2017">Analyzation of CICIDS2017</a>
-- <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Nessus Vulnerability Detection and Remediation</a>
+- <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Exploring Log Analysis Techniques</a>
+- <a href="https://github.com/stokesgarrett/Nessus-Vulnerability-Detection-and-Remediation">Network Security with Snort</a>
