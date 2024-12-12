@@ -85,8 +85,8 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
 
 ### Other Skills
 <div>
-    <img src="https://img.shields.io/badge/-Building_Computers-000000?&style=for-the-badge&logo=tools&logoColor=white" />
     <img src="https://img.shields.io/badge/-86_WPM_Typing-000000?&style=for-the-badge&logo=typing&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Building_Computers-000000?&style=for-the-badge&logo=tools&logoColor=white" />
 </div>
 
 ## Projects
