@@ -21,10 +21,32 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
 
 ## Tools
 
-### Cloud Platforms
+### Scripting & Programming
 <div>
-    <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?&style=for-the-badge&logo=amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+### Cybersecurity Tools
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-2496ED?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-FF6600?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John_the_Ripper-00AEEF?&style=for-the-badge&logo=John-the-Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-FA6100?&style=for-the-badge&logo=hashcat&logoColor=white" />
+</div>
+
+### Development Tools
+<div>
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### SIEM
@@ -34,26 +56,15 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
     <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=kibana&logoColor=white" />
 </div>
 
-### Programming Languages
+### Protocols
 <div>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-### Network Tools
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-nmap-FF6600?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PRTG_Network_Monitor-00B5E2?&style=for-the-badge&logo=prtg&logoColor=white" />
-</div>
-
-### Vulnerability Tools
-<div>
-    <img src="https://img.shields.io/badge/-Nessus-2496ED?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-FF6F00?&style=for-the-badge&logo=owasp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys-0072CE?&style=for-the-badge&logo=qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCP%2FUDP-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IP-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ICMP-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VPN-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BGP-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTTPS-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IPv4%2FIPv6-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
 </div>
 
 ### Development Tools
@@ -72,6 +83,11 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
+### Other Skills
+<div>
+    <img src="https://img.shields.io/badge/-Building_Computers-000000?&style=for-the-badge&logo=tools&logoColor=white" />
+    <img src="https://img.shields.io/badge/-86_WPM_Typing-000000?&style=for-the-badge&logo=typing&logoColor=white" />
+</div>
 
 ## Projects
 - <a href="https://github.com/stokesgarrett/GCP-App-Deployment-Security-Capstone">GCP App Deployment Security Capstone</a>
