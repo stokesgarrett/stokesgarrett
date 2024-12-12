@@ -34,11 +34,12 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
 
 ### Cybersecurity Tools
 <div>
+    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John_the_Ripper-00AEEF?&style=for-the-badge&logo=John-the-Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-FA6100?&style=for-the-badge&logo=hashcat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-2496ED?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-FF6600?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John_the_Ripper-00AEEF?&style=for-the-badge&logo=John-the-Ripper&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hashcat-FA6100?&style=for-the-badge&logo=hashcat&logoColor=white" />
 </div>
 
 ### Development Tools
@@ -49,7 +50,7 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
     <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### SIEM
+### Data Analysis & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Logstash-005571?&style=for-the-badge&logo=logstash&logoColor=white" />
@@ -67,26 +68,16 @@ Throughout the course of my studies in Cybersecurity and IT, I have developed a 
     <img src="https://img.shields.io/badge/-IPv4%2FIPv6-000000?&style=for-the-badge&logo=protocol&logoColor=white" />
 </div>
 
-### Development Tools
-<div>
-    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_365-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
 ### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Windows_10-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu-FFB700?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FFB700?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-### Other Skills
+### Additional Technical Skills
 <div>
     <img src="https://img.shields.io/badge/-86_WPM_Typing-000000?&style=for-the-badge&logo=typing&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Building_Computers-000000?&style=for-the-badge&logo=tools&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Computer_Assembly-000000?&style=for-the-badge&logo=tools&logoColor=white" />
 </div>
 
 ## Projects
