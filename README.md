@@ -31,8 +31,6 @@ A production-style distributed backend built from scratch using Java and Spring 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend & Architecture
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?&style=for-the-badge&logoColor=white)
@@ -40,9 +38,9 @@ A production-style distributed backend built from scratch using Java and Spring 
 ![Event Driven](https://img.shields.io/badge/-Event--Driven%20Architecture-6DB33F?&style=for-the-badge&logoColor=white)
 
 ### Databases
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white)
