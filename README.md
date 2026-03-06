@@ -55,8 +55,8 @@ A production-style distributed backend built from scratch using Java and Spring 
 ![Nmap](https://img.shields.io/badge/-Nmap-FF6600?&style=for-the-badge&logoColor=white)
 
 ### Scripting & Automation
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
