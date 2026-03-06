@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garrett-stokes-79a5261a4/)
 
-Software engineer and cloud practitioner focused on backend systems, distributed architecture, and cloud-native development. M.S. in Information Technology from UTSA, currently building production-style projects in Java and AWS.
+Software engineer and cloud practitioner focused on building scalable systems and modern cloud-native applications.
 
 ---
 
