@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garrett-stokes-79a5261a4/)
 
-Cloud practitioner and software engineer focused on building scalable, secure, cloud-native applications.
+Solutions Architect.
 
 ---
 
